@@ -585,7 +585,10 @@ footer section div {
     .street menu li {
         padding-top: 40px;
     }
-
+    .tacostyle {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
     .tacostyle img {
         width: 100%;
         align-items: left;
