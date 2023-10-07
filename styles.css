@@ -538,8 +538,8 @@ footer section div {
         padding-right: -50px;
     }
     nav ul li img {
-        display: flex;
-        flex-direction: row;
+        display: grid;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr ;
         flex-wrap: wrap;
         justify-content: space-between;
         align-items: top;
