@@ -549,6 +549,19 @@ footer section div {
         margin-top: 22px;
         border: 1px #EB5428;
     }
+    .street menu li {
+        padding-top: 40px;
+    }
+    .tacostyle {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .tacostyle img {
+        width: 49%;
+        margin-left: 88px;
+        margin-top: -391.5px;
+    }
+    
 }
 
 
