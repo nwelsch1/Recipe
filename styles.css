@@ -136,10 +136,10 @@ main {
 #ingredients h2, h2{
     margin-top: 10px;
 }
-#ingredients ol li {
+#ingredients ul li {
     margin-top: 20px;
 }
-#ingredients h2, ol, li {
+#ingredients h2, ul, li {
     margin-left: 10px;
 }
 menu {
