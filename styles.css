@@ -486,7 +486,7 @@ footer section div {
     }
     .box {
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr 1fr;
     }
     .street menu {
         background-color: #7abfbf;
@@ -585,7 +585,7 @@ footer section div {
     }
     .tacostyle {
         display: grid;
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: 1fr 1fr;
     }
     .tacostyle img {
         width: 49%;
