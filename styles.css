@@ -414,6 +414,9 @@ footer section div {
     body {
         max-width: 768px;
     }
+    h2 {
+        justify-content: center;
+    }
     nav {
         display: flex;
     }
@@ -442,6 +445,8 @@ footer section div {
     }
     .street {
         margin-top: 20px;
+        display: block;
+        padding: 10px 10px 10px 10px;
     }
     #ingredients {
         display: flex;
