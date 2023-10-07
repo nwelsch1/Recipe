@@ -120,28 +120,25 @@ main {
     margin-top: -10px;
 }
 #ingredients {
-    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    max-width: 414px;
+    margin: 10px;
 }
 #ingredients ul {
-    max-height: 500px;
+    display: flex;
+    flex-direction: column;
+    max-width: 414px;
+    justify-content: center;
+    list-style-type: inherit;
+    padding-left: 10px;
+    margin-left: 10px;
 }
-#ingredients ul li {
-    margin-top: 10px;
-    margin-left: 20px;
-    line-height: 2em;
-}
+
 #ingredients h2{
     text-align: center;
 }
-#ingredients h2, h2{
-    margin-top: 10px;
-}
-#ingredients ul li {
-    margin-top: 20px;
-}
-#ingredients h2, ul, li {
-    margin-left: 10px;
-}
+
 #directions {
 
 }
