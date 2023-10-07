@@ -491,9 +491,9 @@ footer section div {
         margin-top: 10px;
         margin-right: 20px;
     }
-    #searchbar {
-        margin-top: -80px;
-        left: -80px;
+    #search {
+        margin-top: -160px;
+        left: -100px;
     }
     .box {
         display: grid;
