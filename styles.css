@@ -469,6 +469,12 @@ footer section div {
         text-align: left;
         margin-top: -40px;
     }
+    .street p {
+        padding-top: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 10px;
+    }
     nav ul li img {
         display: flex;        
         flex-wrap: wrap;
