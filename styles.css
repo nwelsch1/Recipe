@@ -496,8 +496,41 @@ footer section div {
 }
 @media screen and (min-width:1280px) {
     body {
-        
+        max-width: 1280px;
+        margin: 0 auto;
+    }
+    ul {
+        overflow: visible;
+        max-height: 20px;
+    }
+    nav ul {
+        max-height: 20%;
     }    
+    nav ul li:not(:first-child):not(:last-child) {
+        margin-left: 100px;
+        margin-right: -10px;
+        margin-top: -75px;
+        padding-left: -10px;
+        padding-right: -50px;
+    }
+    #search {
+        margin-left: -100px;
+        order: 4;
+        width: 100%;
+    }
+    #search input {
+        width: 30%;
+        margin-top: 110px;
+    }
+    #search a {
+        margin-top: 110px;
+    }
+    nav ul li:first-child {
+        margin-right: 15px;
+    }
+    nav ul li:last-child {
+        margin-left: -20px;
+    }
 }
 
 
