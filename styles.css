@@ -500,9 +500,9 @@ footer section div {
         grid-template-columns: 1fr 1fr;
     }
     .street menu {
-        background-color: #7abfbf;
         margin-top: 20px;
         margin-bottom: -70px;
+        background-color: rgba(255, 255, 255, 0.5);
         -webkit-backdrop-filter: blur(10px);
         backdrop-filter: blur(10px);
     }
