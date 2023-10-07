@@ -178,4 +178,14 @@ ul {
 }
 
 
+nav ul li:first-child {
+    flex: 1;
+    background-color: #EB5428;
+    position: absolute;
+    top: -2px;
+    padding-right: 10px;
+    justify-content: center;
+}
+
+
 
