@@ -103,6 +103,7 @@ dt, dd {
 }
 #details h2 {
     text-align: center;
+    color: #7abfbf;
 }
 #details { 
     display: flex;
@@ -313,6 +314,8 @@ main {
 #details h2 {
     margin-top: -10px;
     margin-bottom: 20px;
+    text-align: center;
+    color: #7abfbf;
 }
 #directions ol li{
     margin: 20px 10px;
@@ -628,8 +631,10 @@ footer section div {
     .street p {
         display: flex;
         text-align: right;
-        margin-right: 10px;
+        padding-top: 10px;
+        padding-left: 10px;
         padding-right: 10px;
+        padding-bottom: 10px;
         line-height: 1.75em;
     }
 
