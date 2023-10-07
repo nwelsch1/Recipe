@@ -142,6 +142,9 @@ main {
 #ingredients h2, ul, li {
     margin-left: 10px;
 }
+#directions {
+
+}
 menu {
     display: flex;
     justify-content: space-between;
@@ -156,6 +159,15 @@ menu li {
     margin: 1 10px 0 0;
     list-style: none;
 }
+menu li a:hover{
+    background-color: #EB5428;
+    color: #F2F2F2;
+}
+menu li svg:hover{
+    background-color: transparent;
+    stroke: #F2F2F2;
+}
+
 menu li a {
     color: #EB5428;
     display: flex;
