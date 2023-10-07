@@ -122,6 +122,12 @@ dl {
     margin-top: 10px;
     width: 100%;
 }
+.street p {
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
 main {
     margin-top: -10px;
 }
@@ -622,8 +628,8 @@ footer section div {
     .street p {
         display: flex;
         text-align: right;
-        margin-right: 260px;
-        padding-right: 110px;
+        margin-right: 10px;
+        padding-right: 10px;
         line-height: 1.75em;
     }
 
