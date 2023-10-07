@@ -140,7 +140,20 @@ main {
 }
 
 #directions {
-
+    display: flex;
+    flex-direction: column;
+    max-width: 414px;
+    justify-content: center;
+    margin: 10px 0 10px 20px;
+}
+#directions ol li {
+    margin-bottom: 10px;
+}
+#directions h2 {
+    display: flex;
+    justify-content: center;
+    max-width: 414px;
+    padding-bottom: 20px;
 }
 menu {
     display: flex;
