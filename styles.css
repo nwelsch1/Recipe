@@ -637,6 +637,7 @@ footer section div {
     }
     #ingredients ul li {
         display: flex;
+        text-align: center;
 
         margin-top: 15px;
     }
