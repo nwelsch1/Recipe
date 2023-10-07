@@ -650,7 +650,7 @@ footer section div {
         color: #7abfbf;
     }
     dl {
-        display: grid;
+        display: flex;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         justify-content: space-between;
         margin-right: 60px;
