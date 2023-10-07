@@ -575,6 +575,18 @@ footer section div {
         margin-top: -320px;
         padding-left: 300px;
     }
+    #details {
+        background-color: #0D0D0D;
+    }
+    #details h2 {
+        margin-top: -10px;
+        margin-bottom: 20px;
+    }
+    h2, dl {
+        color: #7abfbf;
+    }
+    
+
 }
 
 
