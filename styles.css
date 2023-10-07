@@ -473,7 +473,23 @@ footer section div {
         -webkit-backdrop-filter: blur(10px);
         backdrop-filter: blur(10px);
     }
-    
+    .street menu li {
+        margin-right: 80px;
+        margin-left: 60px;
+    }
+    .dishes h2 {
+        text-align: center;
+        margin-top: 20px;
+    }
+    footer {
+        display: flex;
+        margin-top: 10px;
+    }
+    footer img {
+        order: 1;
+        margin-top: 40px;
+        margin-left: -20px;
+    }
 
 
 }
