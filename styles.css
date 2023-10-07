@@ -367,6 +367,7 @@ main {
 #links li a {
     text-decoration: none;
     color: #EB5428;
+    justify-content: space-between;
 }
 footer {
     order: 5;
