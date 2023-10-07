@@ -592,7 +592,7 @@ footer section div {
         margin-left: 88px;
         margin-top: -391.5px;
     }
-    #street p {
+    .street p {
         display: flex;
         margin-top: -390px;
         margin-left: -215px;
@@ -600,7 +600,7 @@ footer section div {
         padding-right: 110px;
         line-height: 1.75em;
     }
-    #street p + p {
+    .street p + p {
         margin-left: 120px;
         margin-right: -370px;
         margin-top: -320px;
@@ -624,7 +624,7 @@ footer section div {
         margin-left: 80px;
     }
     dd, dt {
-        align-items: center;
+        text-align: center;
     }
     #ingredients {
         margin-bottom: 20px;
