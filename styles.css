@@ -254,7 +254,7 @@ nav div {
 }
 nav ul li a {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     text-decoration: none;
     color: #0D0D0D;
@@ -408,7 +408,8 @@ footer section div {
     }
     nav ul {
         flex: 1;
-        display: flex;
+        display: grid;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
         margin-top: 60px;
     }
     ul {
@@ -457,8 +458,9 @@ footer section div {
         margin-top: -40px;
     }
     nav ul li img {
-        display: flex;
-        flex-direction: row;
+        display: grid;
+        grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+        
         flex-wrap: wrap;
         justify-content: space-between;
         align-items: top;
