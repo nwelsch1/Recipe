@@ -86,12 +86,15 @@ nav a, nav span, menu li, #social li, footer {
     font-family: 'Bebas Neue-Regular', sans-serif;
     font-size: 20px;
 }
-p, dd, li, nav, input {
+p, li, nav, input {
     font-family: 'Montserrat-regular', sans-serif;
     font-size: 16px;
 }
-dt {
+dt, dd {
     font-family: 'Montserrat-Bold', sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 10px;
 }
 #details h2 {
     text-align: center;
