@@ -185,7 +185,21 @@ nav ul li:first-child {
     top: -2px;
     padding-right: 10px;
     justify-content: center;
+    margin-left: -80px;
 }
+nav ul li:last-child {
+    flex: 1;
+    position: absolute;
+    right: 10px;
+    top: 1px;
+}
+#hamburger {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
 
 
 
