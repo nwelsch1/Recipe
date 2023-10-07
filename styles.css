@@ -314,6 +314,14 @@ main {
     margin-top: -20px;
     font-weight: bold;
 }
+.star svg {
+    margin-top: 1px;
+}
+.side > .sidedish {
+    display: flex;
+    flex-direction: column;
+    order: 2;
+}
 
 
 
