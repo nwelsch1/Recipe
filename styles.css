@@ -585,7 +585,47 @@ footer section div {
     h2, dl {
         color: #7abfbf;
     }
-    
+    dl {
+        display: inline-block;
+        justify-content: center;
+        text-align: center;
+        margin-right: 60px;
+        margin-left: 80px;
+    }
+    dd, dt {
+        align-items: center;
+    }
+    #ingredients {
+        margin-bottom: 20px;
+    }
+    #ingredients h2 {
+        color: #0D0D0D;
+    }
+    #ingredients ul {
+        margin-top: 50px;
+    }
+    #ingredients ul li {
+        margin-top: 15px;
+    }
+    #ingredients ol li {
+        line-height: 28px;
+        margin-right: 20px;
+        margin-top: 10px;
+    }
+    .box {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+    }
+    .sidedish {
+        display: flex;
+        flex-direction: column;
+    }
+    .sidedish a img {
+        width: 80%;
+        height: 80%;
+    }
+    .
+
 
 }
 
