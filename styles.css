@@ -293,6 +293,14 @@ main {
 .sidedish p {
     order: 3;
 }
+.star {
+    order: 4;
+    margin-top: 25px;
+}
+.star p {
+    margin-top: -20px;
+    font-weight: bold;
+}
 
 
 
