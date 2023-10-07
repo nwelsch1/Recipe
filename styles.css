@@ -86,9 +86,6 @@ nav a, nav span, menu li, #social li, footer {
     font-family: 'Bebas Neue-Regular', sans-serif;
     font-size: 20px;
 }
-footer {
-    text-transform: uppercase;
-}
 p, dd, li, nav, input {
     font-family: 'Montserrat-regular', sans-serif;
     font-size: 16px;
