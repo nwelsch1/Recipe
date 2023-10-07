@@ -699,11 +699,12 @@ footer section div {
         width: 40%;
         margin-top: 30px;
         justify-content: left;
-        order: 2;
+        order: 1;
     }
     #links {
         margin-left: 200px;
         justify-content: space-between;
+        order: 2;
     }
     #links p {
         margin-left: -120px;
