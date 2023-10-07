@@ -382,7 +382,20 @@ footer section div {
     margin-top: 15px;
 }
 
-
+@media screen and (min-width:768px) {
+    body {
+        max-width: 768px;
+    }
+    nav {
+        display: flex;
+    }
+    nav ul {
+        flex: 1;
+        display: flex;
+        margin-top: 60px;
+    }
+    
+}
 
 
 
