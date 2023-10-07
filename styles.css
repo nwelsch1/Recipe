@@ -207,6 +207,10 @@ nav ul li:last-child {
     cursor: pointer;
     font-family: 'Bebas Neue', sans-serif;
 }
+.container {
+    display: flex;
+    flex-direction: column;
+}
 
 
 
