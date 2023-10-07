@@ -334,10 +334,7 @@ main {
     flex-direction: column;
     order: 2;
 }
-.sidedish img {
-    width: 50%;
-    height: 50%;
-}
+
 .dishes {
     background-color: #7abfbf;
 }
