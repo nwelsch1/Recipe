@@ -430,6 +430,49 @@ footer section div {
         line-height: 1em;
         margin-left: -10px;
     }
+    .street h1 {
+        margin-left: 20px;
+        text-align: left;
+        margin-top: -40px;
+    }
+    nav ul li img {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+    nav ul li a {
+        display: flex;
+        flex-direction: column;
+        text-decoration: none;
+        color: #EB5428;
+        margin-left: 12px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+    nav ul li:not(:first-child):not(:last-child) {
+        display: flex;
+        order: 3;
+        margin-top: 10px;
+        margin-right: 20px;
+    }
+    #search {
+        margin-top: -80px;
+        left: -80px;
+    }
+    .box {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .street menu {
+        background-color: #7abfbf;
+        margin-top: 20px;
+        margin-bottom: -70px;
+        -webkit-backdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
+    }
     
 
 
