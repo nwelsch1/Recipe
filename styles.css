@@ -678,10 +678,6 @@ footer section div {
         margin-right: 20px;
         margin-top: 10px;
     }
-    .box {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr;
-    }
     .sidedish {
         display: flex;
         flex-direction: column;
