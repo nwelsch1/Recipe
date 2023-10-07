@@ -453,7 +453,7 @@ footer section div {
     }
     #ingredients ul li {
         line-height: 1em;
-        margin-left: -180px;
+        justify-content: center;
     }
     #ingredients ol {
         margin-top: 50px;
