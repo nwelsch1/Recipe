@@ -589,7 +589,7 @@ footer section div {
     }
     .tacostyle {
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
     }
     .tacostyle img {
         width: 100%;
