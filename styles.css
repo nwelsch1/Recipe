@@ -67,5 +67,28 @@ header {
 header img {
     width: 100%;
 }
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 40px;
+}
+h2 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+}
+h3 {
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 20px;
+}
+h4 {
+    visibility: hidden;
+}
+p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+#details h2 {
+    text-align: center;
+}
+
 
 
