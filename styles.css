@@ -104,6 +104,9 @@ dt, dd {
     text-align: center;
 }
 #details { 
+    display: flex;
+    flex-direction: column;
+    max-width: 414px;
     padding-top: 20px;
 }
 dl {
