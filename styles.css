@@ -235,7 +235,25 @@ nav ul li a {
     color: #0D0D0D;
     margin-bottom: 10px;
 }
-
+header {
+    order: 2;
+}
+main {
+    order: 3;
+}
+.dishes {
+    order: 4;
+    margin-bottom: 10px;
+}
+#search {
+    position: relative;
+    justify-content: center;
+    top: 90px;
+}
+.directions ol li{
+    margin: 20px 10px;
+    text-align: left;
+}
 
 
 
