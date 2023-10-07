@@ -547,8 +547,6 @@ footer section div {
     }
     .dishes {
         margin-top: 10px;
-        display: grid;
-        grid-template-columns: 1fr 1fr;
     }
     .dishes h2 {
         text-align: center;
@@ -691,7 +689,7 @@ footer section div {
         width: 80%;
         height: 80%;
     }
-    .dishes {
+    .box {
         margin-top: 10px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr;
