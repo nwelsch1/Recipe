@@ -136,6 +136,8 @@ main {
 }
 
 #ingredients h2{
+    display: flex;
+    max-width: 414px;
     text-align: center;
 }
 
