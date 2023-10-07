@@ -274,9 +274,11 @@ main {
     order: 4;
 }
 #searchbar {
+    display: flex;
     position: relative;
     justify-content: center;
     top: 90%;
+    margin-top: -90px;
 }
 #search {
     display: flex;
@@ -478,7 +480,7 @@ footer section div {
         margin-top: 10px;
         margin-right: 20px;
     }
-    #search {
+    #searchbar {
         margin-top: -80px;
         left: -80px;
     }
@@ -534,16 +536,16 @@ footer section div {
         padding-right: -50px;
     }
 
-    #search {
+    #searchbar {
         margin-left: -100px;
         order: 4;
         width: 100%;
     }
-    #search input {
+    #searchbar input {
         width: 30%;
         margin-top: 110px;
     }
-    #search a {
+    #searchbar a {
         margin-top: 110px;
     }
     nav ul li:first-child {
