@@ -637,7 +637,7 @@ footer section div {
     }
     #ingredients ul li {
         display: flex;
-        
+
         margin-top: 15px;
     }
     #ingredients ol li {
@@ -647,7 +647,7 @@ footer section div {
     }
     .box {
         display: grid;
-        grid-template-columns: repeat(1fr 1fr 1fr 1fr);
+        grid-template-columns: (1fr 1fr 1fr 1fr);
     }
     .sidedish {
         display: flex;
