@@ -561,7 +561,20 @@ footer section div {
         margin-left: 88px;
         margin-top: -391.5px;
     }
-    
+    .street p {
+        display: flex;
+        margin-top: -390px;
+        margin-left: -215px;
+        margin-right: 260px;
+        padding-right: 110px;
+        line-height: 1.75em;
+    }
+    .street p + p {
+        margin-left: 120px;
+        margin-right: -370px;
+        margin-top: -320px;
+        padding-left: 300px;
+    }
 }
 
 
