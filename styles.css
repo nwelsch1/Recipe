@@ -636,6 +636,8 @@ footer section div {
         margin-top: 50px;
     }
     #ingredients ul li {
+        display: flex;
+        
         margin-top: 15px;
     }
     #ingredients ol li {
