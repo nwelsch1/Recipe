@@ -211,6 +211,22 @@ nav ul li:last-child {
     display: flex;
     flex-direction: column;
 }
+nav {
+    order: 1;
+    position: relative;
+}
+nav ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+nav div {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
 
 
 
