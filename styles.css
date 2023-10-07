@@ -51,14 +51,7 @@ body {
     background-color: #f2f2f2;
     max-width: 414px;
     margin: 0 auto;
-    display: grid;
-    grid-template-areas: 
-    "header"
-    "details"
-    "ingredients"
-    "directions"
-    "aside"
-    "footer";
+    box-sizing: border-box;
 }
 header {
     grid-area: header;
@@ -624,9 +617,24 @@ footer section div {
         width: 80%;
         height: 80%;
     }
-    .
-
-
+    .dishes {
+        margin-top: 10px;
+    }
+    footer {
+        display: flex;
+    }
+    footer img {
+        width: 40%;
+        margin-top: 30px;
+        justify-content: left;
+        order: 2;
+    }
+    #links {
+        margin-left: 200px;
+    }
+    #links p {
+        margin-left: -120px;
+    }
 }
 
 
