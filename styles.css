@@ -188,10 +188,7 @@ label {
     position: relative;
     user-select: none;
 }
-ul {
-    overflow: hidden;
-    max-height: 0;
-}
+
 
 
 nav ul li:first-child {
