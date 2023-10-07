@@ -303,8 +303,8 @@ main {
     margin-left: 5px;
 }
 .sidedish img {
-    width: 100%;
-    height: 100%;
+    width: 100px;
+    height: 100px;
     margin-left: 5px;
     margin-top: 20px;
 }
@@ -646,7 +646,7 @@ footer section div {
     }
     .box {
         display: grid;
-        grid-template-columns: (1fr 1fr 1fr 1fr);
+        grid-template-columns: 1fr 1fr 1fr 1fr;
     }
     .sidedish {
         display: flex;
