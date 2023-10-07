@@ -339,7 +339,6 @@ main {
 .sidedish {
     display: flex;
     flex-direction: row;
-    margin-left: 5px;
 }
 .sidedish img {
     width: 100px;
