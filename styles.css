@@ -637,17 +637,14 @@ footer section div {
         color: #7abfbf;
     }
     dl {
-        display: inline-block;
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         justify-content: center;
         text-align: center;
         margin-right: 60px;
         margin-left: 80px;
     }
-    dd, dt {
-        display: grid;
-        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-        text-align: center;
-    }
+
     #ingredients {
         margin-bottom: 20px;
     }
