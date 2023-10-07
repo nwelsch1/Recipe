@@ -535,6 +535,15 @@ footer section div {
         padding-left: -10px;
         padding-right: -50px;
     }
+    nav ul li img {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: top;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
     #search {
         margin-left: -100px;
         order: 4;
