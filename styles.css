@@ -131,10 +131,10 @@ main {
     max-height: 500px;
 }
 #ingredients ul li {
+    text-align: center;
     margin-top: 10px;
     margin-left: 20px;
     line-height: 2em;
-    list-style-type: square;
 }
 
 #directions {
