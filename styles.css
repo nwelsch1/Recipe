@@ -124,7 +124,18 @@ dl {
 main {
     margin-top: -10px;
 }
-
+#ingredients {
+    margin-top: 40px;
+}
+#ingredients ul {
+    max-height: 500px;
+}
+#ingredients ul li {
+    margin-top: 10px;
+    margin-left: 20px;
+    line-height: 2em;
+    list-style-type: square;
+}
 
 #directions {
     display: flex;
