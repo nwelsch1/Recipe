@@ -588,14 +588,12 @@ footer section div {
     }
     .tacostyle {
         display: grid;
-        grid-template-columns: 1fr;
+        grid-template-columns: 1fr 1fr;
     }
     .tacostyle img {
-        width: 49%;
-        margin-left: 88px;
-        margin-top: -391.5px;
+        width: 50%;
     }
-    .street p {
+    .tacostyle p {
         display: flex;
         margin-top: -390px;
         margin-left: -215px;
