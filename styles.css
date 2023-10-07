@@ -490,9 +490,14 @@ footer section div {
         margin-top: 40px;
         margin-left: -20px;
     }
-
-
+    #links {
+        order: 2;
+    }
 }
-
+@media screen and (min-width:1280px) {
+    body {
+        
+    }    
+}
 
 
