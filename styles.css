@@ -591,11 +591,12 @@ footer section div {
         grid-template-columns: 1fr 1fr;
     }
     .tacostyle img {
-        width: 50%;
+        width: 100%;
+        align-items: left;
     }
     .street p {
         display: flex;
-
+        text-align: right;
         margin-right: 260px;
         padding-right: 110px;
         line-height: 1.75em;
