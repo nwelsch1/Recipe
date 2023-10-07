@@ -622,6 +622,8 @@ footer section div {
         margin-left: 80px;
     }
     dd, dt {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
         text-align: center;
     }
     #ingredients {
