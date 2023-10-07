@@ -165,6 +165,17 @@ nav img {
 nav li {
     list-style: none;
 }
+label {
+    cursor: pointer;
+    display: inline-block;
+    padding: 2px 2px;
+    position: relative;
+    user-select: none;
+}
+ul {
+    overflow: hidden;
+    max-height: 0;
+}
 
 
 
