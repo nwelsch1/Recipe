@@ -87,6 +87,7 @@ h2 {
 h3 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 25px;
+    font-weight: bold;
     text-transform: uppercase;
 }
 h4 {
@@ -269,7 +270,6 @@ main {
 }
 .side h3 {
     margin-top: 25px;
-    font-weight: bold;
 }
 
 
