@@ -441,14 +441,7 @@ footer section div {
         line-height: 1em;
         justify-content: center;
     }
-    #ingredients ol {
-        margin-top: 50px;
-        margin-left: -10px;
-    }
-    #ingredients ol li {
-        line-height: 1em;
-        margin-left: -10px;
-    }
+
     .street h1 {
         margin-left: 20px;
         text-align: left;
