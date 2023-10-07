@@ -595,8 +595,7 @@ footer section div {
     }
     .street p {
         display: flex;
-        margin-top: -390px;
-        margin-left: -215px;
+
         margin-right: 260px;
         padding-right: 110px;
         line-height: 1.75em;
