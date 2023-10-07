@@ -55,6 +55,7 @@ body {
 }
 header {
     grid-area: header;
+    
     padding-top: 180px;
 }
 header img {
@@ -465,7 +466,7 @@ footer section div {
     }
     nav ul li a {
         display: flex;
-        flex-direction: column;
+        flex-direction: row;
         text-decoration: none;
         color: #EB5428;
         margin-left: 12px;
