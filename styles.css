@@ -639,8 +639,7 @@ footer section div {
     dl {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-        justify-content: center;
-        text-align: center;
+        justify-content: space-between;
         margin-right: 60px;
         margin-left: 80px;
     }
