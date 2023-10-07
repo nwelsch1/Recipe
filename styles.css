@@ -188,7 +188,10 @@ label {
     position: relative;
     user-select: none;
 }
-
+ul {
+    overflow: hidden;
+    max-height: 0;
+}
 
 
 nav ul li:first-child {
@@ -642,7 +645,7 @@ footer section div {
     }
     .box {
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
+        grid-template-columns: repeat(1fr 1fr 1fr 1fr);
     }
     .sidedish {
         display: flex;
