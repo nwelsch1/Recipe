@@ -104,6 +104,9 @@ dt, dd {
 #details h2 {
     text-align: center;
 }
+#details { 
+    padding-top: 20px;
+}
 dl {
     display: flex;
 }
@@ -114,8 +117,21 @@ dl {
     margin-top: 10px;
     width: 100%;
 }
-.street h1 {
-
+main {
+    margin-top: -10px;
 }
+#ingredients {
+    margin-top: 40px;
+}
+#ingredients ul {
+    max-height: 500px;
+}
+#ingredients ul li {
+    margin-top: 10px;
+    margin-left: 20px;
+    line-height: 2em;
+    list-style-type: square;
+}
+
 
 
