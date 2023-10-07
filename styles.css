@@ -271,6 +271,28 @@ main {
 .side h3 {
     margin-top: 25px;
 }
+.side p {
+    margin-top: 25px;
+}
+.sidedish {
+    display: flex;
+    flex-direction: row;
+}
+.sidedish img {
+    width: 110px;
+    height: 110px;
+    margin-left: 5px;
+    margin-top: 20px;
+}
+.sidedish img {
+    order: 1;
+}
+.sidedish h3 {
+    order: 2;
+}
+.sidedish p {
+    order: 3;
+}
 
 
 
