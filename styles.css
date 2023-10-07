@@ -545,6 +545,11 @@ footer section div {
         margin-right: 80px;
         margin-left: 60px;
     }
+    .dishes {
+        margin-top: 10px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
     .dishes h2 {
         text-align: center;
         margin-top: 20px;
