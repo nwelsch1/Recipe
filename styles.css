@@ -600,12 +600,7 @@ footer section div {
         padding-right: 110px;
         line-height: 1.75em;
     }
-    .street p + p {
-        margin-left: 120px;
-        margin-right: -370px;
-        margin-top: -320px;
-        padding-left: 300px;
-    }
+
     #details {
         background-color: #0D0D0D;
         max-width: 1280px;
