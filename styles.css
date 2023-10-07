@@ -68,31 +68,31 @@ header img {
     width: 100%;
 }
 h1 {
-    font-family: 'Bebas Neue-Regular', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 40px;
     text-align: center;
     padding-bottom: 20px;
     padding-bottom: 80px;
 }
 h2 {
-    font-family: 'Bebas Neue-Regular', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 30px;
     text-align: center;
     margin-top: 25px;
 }
 h3 {
-    font-family: 'Bebas Neue-Regular', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 25px;
 }
 h4 {
     visibility: hidden;
 }
 nav a, nav span, menu li, #social li, footer {
-    font-family: 'Bebas Neue-Regular', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
     font-size: 20px;
 }
 p, li, nav, input {
-    font-family: 'Montserrat-regular', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 16px;
 }
 dt, dd {
