@@ -273,6 +273,11 @@ main {
 .dishes {
     order: 4;
 }
+#searchbar {
+    position: relative;
+    justify-content: center;
+    top: 90%;
+}
 #search {
     display: flex;
     position: relative;
