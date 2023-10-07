@@ -429,6 +429,10 @@ footer section div {
         overflow: visible;
         max-height: 100px;
     }
+    nav ul li:first-child {
+        order: 1;
+        left: 80px;
+    }
     nav ul li:last-child {
         order: 4;
         margin-bottom: 10px;
