@@ -113,6 +113,7 @@ dt, dd {
 }
 dl {
     display: flex;
+    color: #7abfbf;
 }
 .street {
     width: 100%;
@@ -453,6 +454,7 @@ footer section div {
     }
     dl {
         justify-content: center;
+        color: #7abfbf;
     }
     .street {
         margin-top: 20px;
