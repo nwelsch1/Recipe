@@ -279,7 +279,7 @@ main {
     height: 40px;
     margin-top: 90px;
 }
-.directions ol li{
+#directions ol li{
     margin: 20px 10px;
     text-align: left;
 }
