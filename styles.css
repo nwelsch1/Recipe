@@ -418,6 +418,18 @@ footer section div {
     #ingredients ul {
         margin-top: 50px;
     }
+    #ingredients ul li {
+        line-height: 1em;
+        margin-left: -180px;
+    }
+    #ingredients ol {
+        margin-top: 50px;
+        margin-left: -10px;
+    }
+    #ingredients ol li {
+        line-height: 1em;
+        margin-left: -10px;
+    }
     
 
 
