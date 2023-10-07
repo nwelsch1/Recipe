@@ -389,12 +389,38 @@ footer section div {
     nav {
         display: flex;
     }
+    nav label {
+        display: none;
+    }
     nav ul {
         flex: 1;
         display: flex;
         margin-top: 60px;
     }
+    ul {
+        overflow: visible;
+        max-height: 100px;
+    }
+    nav ul li:last-child {
+        order: 4;
+        margin-bottom: 10px;
+    }
+    dl {
+        justify-content: center;
+    }
+    .street {
+        margin-top: 20px;
+    }
+    #ingredients {
+        display: flex;
+        margin-bottom: 40px;
+    }
+    #ingredients ul {
+        margin-top: 50px;
+    }
     
+
+
 }
 
 
