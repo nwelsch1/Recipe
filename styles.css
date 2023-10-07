@@ -70,6 +70,7 @@ header img {
 h1 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 40px;
+    font-weight: bold;
     text-align: center;
     padding-bottom: 20px;
     padding-bottom: 80px;
@@ -78,6 +79,7 @@ h1 {
 h2 {
     font-family: 'Bebas Neue', sans-serif;
     font-size: 30px;
+    font-weight: bold;
     text-align: center;
     margin-top: 25px;
     text-transform: uppercase;
@@ -246,15 +248,29 @@ main {
     margin-bottom: 10px;
 }
 #search {
+    display: flex;
     position: relative;
     justify-content: center;
     top: 90px;
+    height: 40px;
+    margin-top: 90px;
 }
 .directions ol li{
     margin: 20px 10px;
     text-align: left;
 }
-
+.dishes a {
+    text-decoration: none;
+    color:#0D0D0D;
+}
+.side {
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.side h3 {
+    margin-top: 25px;
+    font-weight: bold;
+}
 
 
 
