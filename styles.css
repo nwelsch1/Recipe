@@ -138,6 +138,19 @@ main {
     line-height: 2em;
     list-style-type: square;
 }
+#ingredients h2{
+    text-align: center;
+}
+#ingredients h2, h2{
+    margin-top: 10px;
+}
+#ingredients ol li {
+    margin-top: 20px;
+}
+#ingredients h2, ol, li {
+    list-style-type: decimal;
+    margin-left: 10px;
+}
 menu {
     display: flex;
     justify-content: space-between;
